@@ -13,9 +13,10 @@ coming soon...
 ## Gojoy XR Unity SDK Demo
 
 The latest `TinyXR_*.unitypackage` and release notes
-are available from the https://github.com/gojoylab/tinyxr-unity-sdk
-[releases](//github.com/gojoylab/tinyxr-unity-sdk/releases)
+are available from the [releases](//github.com/gojoylab/tinyxr-unity-sdk/releases)
 page.
+
+The Unity SDK repo please visit https://github.com/gojoylab/tinyxr-unity-sdk
 
 ## Gojoy XR Android SDK Demo
 coming soon...
