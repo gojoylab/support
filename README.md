@@ -19,7 +19,10 @@ page.
 The Unity SDK repo please visit https://github.com/gojoylab/tinyxr-unity-sdk
 
 ## Gojoy XR Android SDK Demo
-coming soon...
+
+The latest `xrcore-service-release_*.apk` and release notes are available from [release](//github.com/gojoylab/tinyxr-android-sdk/releases) page.
+
+The Android SDK repo please visit https://github.com/gojoylab/tinyxr-android-sdk
 
 ## Technical Support
 - Please leave your questions/comments at Issues page and we'll keep them updated.
